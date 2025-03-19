@@ -8,9 +8,15 @@ This application was developed to design and build a web-based system that simpl
 
 ##documentations
 <img width="1300" alt="Screenshot 2025-03-20 at 04 17 27" src="https://github.com/user-attachments/assets/16c0540f-5166-438b-8e8a-03713c292de3" />
+<img width="1032" alt="Screenshot 2025-03-20 at 04 18 18" src="https://github.com/user-attachments/assets/15627ce4-1eda-45f5-8053-23cee8687fd0" />
+<img width="1032" alt="Screenshot 2025-03-20 at 04 18 27" src="https://github.com/user-attachments/assets/fba4599d-f86f-43ba-857e-417da1a1a26d" />
+<img width="1004" alt="Screenshot 2025-03-20 at 04 18 41" src="https://github.com/user-attachments/assets/5c8447a2-79b5-4044-816b-5dbab4da7267" />
+<img width="875" alt="Screenshot 2025-03-20 at 04 18 52" src="https://github.com/user-attachments/assets/014d46dd-bab9-411e-baa4-2032558e7c79" />
+<img width="846" alt="Screenshot 2025-03-20 at 04 19 02" src="https://github.com/user-attachments/assets/2f60f31b-50e5-4835-a73d-fe8e652d4a36" />
+<img width="844" alt="Screenshot 2025-03-20 at 04 19 13" src="https://github.com/user-attachments/assets/7cb8950d-b1fe-4055-ac8e-6b881bb87a4d" />
+<img width="833" alt="Screenshot 2025-03-20 at 04 19 27" src="https://github.com/user-attachments/assets/3885b232-b3a3-4f2c-bb73-5a740b21c596" />
 
 
-## Scope
 ### Area
 Research was conducted in Probolinggo City, focusing on the needs of micro, small, and medium enterprises.
 
