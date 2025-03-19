@@ -6,7 +6,7 @@ A web-based financial monitoring application for MSMEs (Micro, Small, and Medium
 ## Purpose
 This application was developed to design and build a web-based system that simplifies cash position monitoring for MSMEs. The goal is to help these enterprises transition from being aid recipients (mustahik) to becoming financially independent contributors (muzaki).
 
-##documentations
+## Documentations
 <img width="1300" alt="Screenshot 2025-03-20 at 04 17 27" src="https://github.com/user-attachments/assets/16c0540f-5166-438b-8e8a-03713c292de3" />
 <img width="1032" alt="Screenshot 2025-03-20 at 04 18 18" src="https://github.com/user-attachments/assets/15627ce4-1eda-45f5-8053-23cee8687fd0" />
 <img width="1032" alt="Screenshot 2025-03-20 at 04 18 27" src="https://github.com/user-attachments/assets/fba4599d-f86f-43ba-857e-417da1a1a26d" />
