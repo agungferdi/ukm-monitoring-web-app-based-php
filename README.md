@@ -160,13 +160,5 @@ The application follows the CodeIgniter MVC framework structure:
 - views - UI templates and views
 - assets - CSS, JavaScript, and image files
 
-## Screenshots
-(You can add screenshots of your application here)
-
 ## Contributors
 - Ferdiansyah Muhammad Agung
-
-## License
-This project is licensed under the MIT License
-
-Similar code found with 2 license types
