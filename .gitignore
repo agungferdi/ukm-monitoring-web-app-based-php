@@ -1,0 +1,49 @@
+.DS_Store
+
+# Cache & Logs (CodeIgniter 3)
+application/cache/*
+!application/cache/index.html
+
+application/logs/*
+!application/logs/index.html
+
+!application/*/.htaccess
+
+# Cache & Logs (CodeIgniter 4)
+writable/cache/
+writable/logs/
+writable/debugbar/
+writable/sessions/
+writable/uploads/
+
+# Environment Configuration (CI4)
+.env
+
+# Dependencies
+composer.lock
+/vendor/
+
+# User Guide (CI4)
+user_guide_src/build/*
+user_guide_src/cilexer/build/*
+user_guide_src/cilexer/dist/*
+user_guide_src/cilexer/pycilexer.egg-info/*
+
+# Uploaded Files
+public/uploads/
+uploads/
+
+# IDE & Editor Files
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# Test Files
+/tests/tests/
+/tests/results/
