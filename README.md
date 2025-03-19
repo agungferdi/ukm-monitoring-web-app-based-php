@@ -1,10 +1,21 @@
-# UKM Monitoring Web Application
+<img width="833" alt="Screenshot 2025-03-20 at 04 19 27" src="https://github.com/user-attachments/assets/6cae6297-5e2a-4c65-bca1-f968bd53e17c" /># UKM Monitoring Web Application
 
 ## Overview
 A web-based financial monitoring application for MSMEs (Micro, Small, and Medium Enterprises). This system facilitates cash flow monitoring for MSMEs in Probolinggo City, helping them track their financial positions and improve business management.
 
 ## Purpose
 This application was developed to design and build a web-based system that simplifies cash position monitoring for MSMEs. The goal is to help these enterprises transition from being aid recipients (mustahik) to becoming financially independent contributors (muzaki).
+
+##documentations
+
+![Uploading Screenshot 2025-03-20 at 04.19<img width="1300" alt="Screenshot 2025-03-20 at 04 17 27" src="https://github.com/user-attachments/assets/189f4d0c-7f55-4c8c-af19-ab596102ef5b" />
+<img width="1032" alt="Screenshot 2025-03-20 at 04 18 18" src="https://github.com/user-attachments/assets/6f60bb48-4c63-4b21-81ca-4e9bbc8457c9" />
+<img width="1032" alt="Screenshot 2025-03-20 at 04 18 27" src="https://github.com/user-attachments/assets/37a980df-34db-470e-830e-331d5bb80c8c" />
+<img width="1004" alt="Screenshot 2025-03-20 at 04 18 41" src="https://github.com/user-attachments/assets/13bfc522-df24-486f-9eae-1a7d2dcce095" />
+<img width="875" alt="Screenshot 2025-03-20 at 04 18 52" src="https://github.com/user-attachments/assets/27cfcdb1-2ab9-4b87-bd81-8c31e6a7819f" />
+<img width="846" alt="Screenshot 2025-03-20 at 04 19 02" src="https://github.com/user-attachments/assets/6049f285-22c0-4f81-a341-95e094ea46dc" />
+<img width="844" alt="Screenshot 2025-03-20 at 04 19 13" src="https://github.com/user-attachments/assets/6b1fb3bf-7556-41fc-aaf1-911b5fc4d3ee" />
+.27.png…]()
 
 ## Scope
 ### Area
