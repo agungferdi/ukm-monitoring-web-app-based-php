@@ -4,7 +4,7 @@
 A web-based financial monitoring application for MSMEs (Micro, Small, and Medium Enterprises). This system facilitates cash flow monitoring for MSMEs in Probolinggo City, helping them track their financial positions and improve business management.
 
 ## Purpose
-This application was developed to design and build a web-based system that simplifies cash position monitoring for MSMEs. The goal is to help these enterprises transition from being aid recipients (mustahik) to becoming financially independent contributors (muzaki).
+This application was developed to design and build a web-based system that simplifies cash position monitoring for MSMEs. The goal is to help these enterprises transition from being aid recipients to becoming financially independent contributors.
 
 ## Documentations
 <img width="1300" alt="Screenshot 2025-03-20 at 04 17 27" src="https://github.com/user-attachments/assets/16c0540f-5166-438b-8e8a-03713c292de3" />
